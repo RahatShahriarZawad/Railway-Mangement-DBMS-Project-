@@ -7,3 +7,6 @@ The Project uses-
 - Javascript
 - Ajax
 
+#Screenshots:
+![alt text](https://github.com/RahatShahriarZawad/Railway-Mangement-DBMS-Project-/blob/110f2b365d4f782ca03649ff17771f22e25a288f/screenshots/Screenshot%20(48).png)
+![alt text](https://github.com/RahatShahriarZawad/Railway-Mangement-DBMS-Project-/blob/110f2b365d4f782ca03649ff17771f22e25a288f/screenshots/Screenshot%20(57).png)
